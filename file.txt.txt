@@ -2,9 +2,8 @@ my name is parminder
 Working on the git first time
 I am ready to do it and with good pace
 
-<<<<<<< HEAD
+
 testing data
-=======
+
 testing data
 testing data in main branch
->>>>>>> a82d1b73c856be11b7959f03c8af777bb1e5b249
